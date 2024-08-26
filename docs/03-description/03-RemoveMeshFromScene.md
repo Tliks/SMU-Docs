@@ -2,7 +2,7 @@
 
 ## 機能
 - 非破壊でメッシュを削除する機能。
-- 基本的にAAO Remove Meshと同じですがTriangle Selectorを用いることでシーン上から直接選択できるインターフェースの違いがあります。
+- 基本的にAAO Remove Meshと同じですが[Triangle Selector](../TriangleSelector)を用いることでシーン上から直接選択できるインターフェースの違いがあります。
 
 ## 実行場所
 - Skinned Mesh RendererがついたオブジェクトにAdd ComponentからSceneMeshUtils / SMU Remove Mesh From Scene
