@@ -8,7 +8,7 @@
 - Skinned Mesh Rendererがついたオブジェクトの右クリックメニューからSceneMeshUtils / Create Mask Texture
 
 ## 使い方
-- Add/Edit Triangle SelectionからTriangle Selectorを起動
+- Add SelectionからTriangle Selectorを起動
 - メッシュの箇所を指定した上でApply。詳細は[Triangle Selector](../TriangleSelector)から
 - 選択された箇所のメッシュがプレビューされます。
 - 選択した箇所と選択されていない箇所をそれぞれどのような色にするか選択します。

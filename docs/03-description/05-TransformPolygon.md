@@ -1,5 +1,5 @@
 # Transform Polygon
-(開発途中)コンポーネントがありません
+info: 開発途中につきコンポーネントがありません。
 
 ## 機能
 - メッシュの一部にのみTransformを適用する機能。
@@ -10,8 +10,8 @@
 - Skinned Mesh RendererがついたオブジェクトにAdd ComponentからSceneMeshUtils / SMU Transform Polygon
 
 ## 使い方
-- Add/Edit Triangle SelectionからTriangle Selectorを起動
+- Add SelectionからTriangle Selectorを起動
 - 適用したい箇所のメッシュを指定した上でApply。詳細は[Triangle Selector](../TriangleSelector)から
 - コンポーネント上にあるTransformに準拠した項目の数値を変更します
-- Auto Previewが有効であれば選択されたメッシュのみPosition等が変化します。
+- NDMF Previewが有効であれば選択されたメッシュのみPosition等が変化します。
 - NDMF準拠でビルド時にMeshを編集
