@@ -1,5 +1,5 @@
 # Add Shrink BlendShape
-info: NDMF Previewの関係で現状追加したBlendShapeをプレビューできません。
+※ NDMF Previewの関係で現状追加したBlendShapeをプレビューできません。
 
 ## 機能
 - 貫通対策用のBlendShapeを非破壊で追加する機能。
